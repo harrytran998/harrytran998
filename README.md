@@ -5,12 +5,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=harrytran998&&show_icons=true&title_color=5A67D8&icon_color=F687B3&text_color=3182CE&bg_color=FAF5FF" alt="Harry Tran's Github Stats" />
 </div>
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 ---
-
-<br />
-<br />
-<br />
-<br />
 <div align="center">
 <h3>How to reach me 👻</h3>
 
