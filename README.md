@@ -2,8 +2,7 @@
 
 <div>
 <img align="left" src="https://github.com/harrytran998/harrytran998/blob/master/assets/unicorn.gif" width="20%" height="25%"/>
-<img align="right" src="
-https://github-readme-stats.vercel.app/api?username=harrytran998&&show_icons=true&title_color=5A67D8&icon_color=F687B3&text_color=3182CE&bg_color=FAF5FF" alt="Harry Tran's Github Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=harrytran998&&show_icons=true&title_color=5A67D8&icon_color=F687B3&text_color=3182CE&bg_color=FAF5FF" alt="Harry Tran's Github Stats" />
 </div>
 
 ---
