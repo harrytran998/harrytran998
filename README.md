@@ -1,17 +1,14 @@
 <h2> 𝐖𝐞𝐥𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐠𝐢𝐭𝐡𝐮𝐛! <img src="https://github.com/harrytran998/harrytran998/blob/master/assets/hithere.gif" width="30px"></h2>
 
-<div display="flex">
-  <img align="center" src="https://github.com/harrytran998/harrytran998/blob/master/assets/unicorn.gif" />
-  <img align="center" src="
+<div>
+<img align="left" src="https://github.com/harrytran998/harrytran998/blob/master/assets/unicorn.gif" width="20%" height="25%"/>
+<img align="right" src="
 https://github-readme-stats.vercel.app/api?username=harrytran998&&show_icons=true&title_color=5A67D8&icon_color=F687B3&text_color=3182CE&bg_color=FAF5FF" alt="Harry Tran's Github Stats" />
 </div>
 
-<div align="center">
-<img align="center" src="
-https://github-readme-stats.vercel.app/api?username=harrytran998&&show_icons=true&title_color=5A67D8&icon_color=F687B3&text_color=3182CE&bg_color=FAF5FF" alt="Harry Tran's Github Stats" />
-
 ---
 
+<div align="center">
 <h3>How to reach me 👻</h3>
 
 <a href="https://www.linkedin.com/in/harrytran998" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -21,9 +18,9 @@ https://github-readme-stats.vercel.app/api?username=harrytran998&&show_icons=tru
 
 ---
 
-## What I'm up to
+## What I'm up to 🥳
 
-Currently I’m looking for the company work with stack **Vue/Nuxt(Js or Typescript)** and **NodeJs**
+Currently I’m **looking for** the company work with stack in **JS/Typescript** on **Vue/Nuxt** and **NodeJs**.
 
 <!--
 You can change color in this color palette:
