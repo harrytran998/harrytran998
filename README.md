@@ -23,6 +23,7 @@
 <h3>How to reach me 👻</h3>
 
 <a href="https://www.linkedin.com/in/harrytran998" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/harrytran998" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.facebook.com/harrytran998" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 </div>
@@ -31,7 +32,7 @@
 
 ## What I'm up to 🥳
 
-Currently I’m **looking for** the company work with stack in **JS/Typescript** on **Vue/Nuxt** and **NodeJs**.
+Currently I’m **looking for** the company work with stack in **JavaScript/Typescript** on **Vue/Nuxt** and **NodeJs**.
 
 <!--
 You can change color in this color palette:
