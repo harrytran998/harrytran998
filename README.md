@@ -2,7 +2,7 @@
 
 <div>
 <img align="left" src="https://github.com/harrytran998/harrytran998/blob/master/assets/unicorn.gif" width="35%" height="45%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=harrytran998&&show_icons=true&title_color=5A67D8&icon_color=F687B3&text_color=3182CE&bg_color=FAF5FF" alt="Harry Tran's Github Stats" />
+<img align="right" src="https://github.com/harrytran998/harrytran998/blob/master/assets/teamwork.png" alt="If you want to go fast, go alone. If you want to go far, go together" />
 </div>
 
 <br />
@@ -22,9 +22,17 @@
 <div align="center">
 <h3>How to reach me 👻</h3>
 
-<a href="https://www.linkedin.com/in/harrytran998" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/harrytran998" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.facebook.com/harrytran998" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<div align="center">
+  <a href= "https://www.linkedin.com/in/harrytran998/" target="_blank">
+    <img src="https://img.icons8.com/dusk/48/000000/linkedin.png" />
+  </a>
+  <a href= "https://twitter.com/harrytran998" target="_blank">
+   <img src="https://img.icons8.com/dusk/48/000000/twitter.png" />
+  </a>
+  <a href="https://www.facebook.com/harrytran998" target="_blank">
+   <img src="https://img.icons8.com/dusk/48/000000/facebook.png" />
+  </a>
+</div>
 
 </div>
 
@@ -32,18 +40,6 @@
 
 ## What I'm up to 🥳
 
-Currently I’m **looking for** the company work with stack in **JavaScript/Typescript** on **Vue/Nuxt** and **NodeJs**.
+> *If you want to go fast, go alone. If you want to go far, go together!*
 
-<!--
-You can change color in this color palette:
-https://tailwindcss.com/docs/customizing-colors#default-color-palette
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I’m **looking for** 3-5 team members work with stack in **JavaScript/Typescript** on **Vue/Nuxt** and **NodeJs** in Ha Noi, VietNam. If you are interested, please DM me!
