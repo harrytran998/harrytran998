@@ -1,19 +1,13 @@
+
 <h2> 𝐖𝐞𝐥𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐠𝐢𝐭𝐡𝐮𝐛! <img src="https://github.com/harrytran998/harrytran998/blob/master/assets/hithere.gif" width="30px"></h2>
 
 <div>
 <img align="left" src="https://github.com/harrytran998/harrytran998/blob/master/assets/unicorn.gif" width="35%" height="45%"/>
-<img align="right" src="https://github.com/harrytran998/harrytran998/blob/master/assets/teamwork.png" alt="If you want to go fast, go alone. If you want to go far, go together" />
+
+[![Harry Tran's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrytran998&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/harrytran)
+
 </div>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 
@@ -41,5 +35,7 @@
 ## What I'm up to 🥳
 
 > *If you want to go fast, go alone. If you want to go far, go together!*
-
-https://github-readme-stats.vercel.app/api?username=harrytran998&count_private=true&show_icons=true&theme=tokyonight
+Our community in Facebook: https://www.facebook.com/techmely
+Our edu website: https://kungfutech.edu.vn
+Our website: techmely.com
+My blog: harrytran998.com
