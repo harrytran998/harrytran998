@@ -42,4 +42,4 @@
 
 > *If you want to go fast, go alone. If you want to go far, go together!*
 
-Currently I’m **looking for** 3-5 team members work with stack in **JavaScript/Typescript** on **Vue/Nuxt** and **NodeJs** in Ha Noi, VietNam. If you are interested, please DM me!
+https://github-readme-stats.vercel.app/api?username=harrytran998&count_private=true&show_icons=true&theme=tokyonight
