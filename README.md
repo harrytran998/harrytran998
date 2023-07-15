@@ -13,21 +13,6 @@
 
 ---
 
-<div align="center">
-<h3>How to reach me 👻</h3>
-
-<div align="center">
-  <a href= "https://www.linkedin.com/in/harrytran998/" target="_blank">
-    <img src="https://img.icons8.com/dusk/48/000000/linkedin.png" />
-  </a>
-  <a href= "https://twitter.com/harrytran998" target="_blank">
-   <img src="https://img.icons8.com/dusk/48/000000/twitter.png" />
-  </a>
-  <a href="https://www.facebook.com/harrytran998" target="_blank">
-   <img src="https://img.icons8.com/dusk/48/000000/facebook.png" />
-  </a>
-</div>
-
 </div>
 
 ---
@@ -35,7 +20,7 @@
 ## What I'm up to 🥳
 
 > *If you want to go fast, go alone. If you want to go far, go together!*
-Our community in Facebook: https://www.facebook.com/techmely
+Our community on Facebook: https://www.facebook.com/techmely
 Our edu website: https://kungfutech.edu.vn
-Our website: techmely.com
-My blog: harrytran998.com
+Our website: https://techmely.com
+My blog: [https://harrytran998.dreamstree.net](https://harrytran998.dreamstree.net)
