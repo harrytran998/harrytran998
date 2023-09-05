@@ -18,9 +18,10 @@
 ---
 
 ## What I'm up to 🥳
+I'm a combination of Business + Culture + Technology guy. 
 
-> *If you want to go fast, go alone. If you want to go far, go together!*
+I'm currently focusing on building [Techmely](https://techmely.com/) and [Kungfutech](https://kungfutech.edu.vn/) with my teams.
 Our community on Facebook: https://www.facebook.com/techmely
 Our edu website: https://kungfutech.edu.vn
 Our website: https://techmely.com
-My blog: [https://harrytran998.dreamstree.net](https://harrytran998.dreamstree.net)
+My blog: https://harrytran998.techmely.com
