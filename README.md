@@ -9,13 +9,10 @@
 </div>
 
 <br />
-<br />
 
 ---
 
 </div>
-
----
 
 ## What I'm up to 🥳
 I'm a combination of Business + Culture + Technology guy. 
