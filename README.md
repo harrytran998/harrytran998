@@ -28,7 +28,7 @@ My blog: https://harrytran998.techmely.com
 ## My advantage card(Long mạch - Vietnamese language)?
 
 - I can understand, and organize people to maximize their performance and efficiencies.
-- I love Tech, especially Architecture Solutions(newbie). I already built and initiated 5 code bases(Monorepo, micro-frontend, domain-driven design) from 0 commits to 10k commits, 3 persons to more than 30 persons.
+- I love Tech, especially Architecture Solutions(newbie). I already built and initiated 5 code bases(Monorepo, micro-frontend, domain-driven design) from 0 commits to 5k commits, 3 persons to more than 15 persons working on that.
 - I love to build career paths for the Software Engineer, especially some internal business processes like Software Delivery Assessment... to help organizations happier, more productive, and more profitable.
 - A Longlife-Learner - always learning and sharing the news tech or experiences for others!
 - Yeah, I and my team build products fast - Release MVP products in 2 weeks(Requirement + Design + UI/UX + Website + Cross-Mobile App).
