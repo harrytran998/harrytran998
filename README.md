@@ -19,16 +19,9 @@
 I'm a combination guy of Business + Culture + Technology guy. 
 I have a dream, I can help Vietnam become a powerful country, and have its own Silicon Valley where everyone loves to learn and share knowledge, especially Technology and Culture!
 
-Currently, my hustle focuses on building [Techmely](https://techmely.com/) and [Kungfutech](https://kungfutech.edu.vn/) with my teams.
+Currently, my hustle focuses on building [Investtal](https://investtal.com/), and the past is [Techmely](https://techmely.com) and [Kungfutech](https://kungfutech.edu.vn/) with my teams.
 Our community on Facebook: https://www.facebook.com/techmely
 Our edu website: https://kungfutech.edu.vn
-Our website: https://techmely.com
+Our friend's website: https://techmely.com
+My company website: https://investtal.com
 My blog: https://harrytran998.techmely.com
-
-## My advantage card(Long mạch - Vietnamese language)?
-
-- I can understand, and organize people to maximize their performance and efficiencies.
-- I love Tech, especially Architecture Solutions(newbie). I already built and initiated 5 code bases(Monorepo, micro-frontend, domain-driven design) from 0 commits to 5k commits, 3 persons to more than 15 persons working on that.
-- I love to build career paths for the Software Engineer, especially some internal business processes like Software Delivery Assessment... to help organizations happier, more productive, and more profitable.
-- A Longlife-Learner - always learning and sharing the news tech or experiences for others!
-- Yeah, I and my team build products fast - Release MVP products in 2 weeks(Requirement + Design + UI/UX + Website + Cross-Mobile App).
