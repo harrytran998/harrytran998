@@ -7,5 +7,5 @@
 I'm a combination of business, culture, and technology. 
 I have a dream: I can help Vietnam become a powerful country and establish its own Silicon Valley, where everyone loves to learn and share knowledge, especially in Technology and culture.
 
-Currently, Im building [Investtal](https://investtal.com/) and [VietnamTrail](https://vietnamultratrail.com/). And training like an Athletic Trail Runner!
+Currently, I'm building [Investtal](https://investtal.com/) and [VietnamOpenHealth](https://vietnamopenhealth.com/). And training like an Athletic Trail Runner!
 
