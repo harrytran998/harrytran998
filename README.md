@@ -4,8 +4,11 @@
 </div>
 
 ## What I'm up to 🥳
-I'm a combination of business, culture, and technology. 
-I have a dream: I can help Vietnam become a powerful country and establish its own Silicon Valley, where everyone loves to learn and share knowledge, especially in Technology and culture.
+I'm a hungry and foolish person. I just want to help as many people as I can through the services and products I craft with my homies.
 
-Currently, I'm building [Investtal](https://investtal.com/) and [VietnamOpenHealth](https://vietnamopenhealth.com/). And training like an Athletic Trail Runner!
+Currently, I'm building 
+- [Investtal](https://investtal.com/)
+- [VietnamOpenHealth](https://vietnamopenhealth.com/).
+- [VietnamOpenFinance](https://vietnamopenfinance.com/).
+- And training like an Athletic Trail Runner!
 
