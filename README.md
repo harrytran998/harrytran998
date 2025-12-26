@@ -4,11 +4,17 @@
 </div>
 
 ## What I'm up to 🥳
-I'm a hungry and foolish person. I just want to help as many people as I can through the services and products I craft with my homies.
+I'm a hungry and foolish person. I just want to help as many people as possible through the services and products I create with my organizations/teams.
 
 Currently, I'm building 
 - [Investtal](https://investtal.com/)
-- [VietnamOpenHealth](https://vietnamopenhealth.com/).
-- [VietnamOpenFinance](https://vietnamopenfinance.com/).
+- Open Vietnam Corporations
+    - Open Health
+    - Open Finance
+    - Open Fusion Energy
+    - Open Digital Twins
+    - Open Disaster
+    - Open Buddhism
+    - Open Security
 - And training like an Athletic Trail Runner!
 
