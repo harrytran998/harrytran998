@@ -4,9 +4,31 @@
 </div>
 
 ## What I'm up to 🥳
-I'm a hungry and foolish person. I just want to help as many people as possible through the services and products I create with my organizations/teams.
+I do not like to manage or rule anyone or any organization; I just want to be free. Free to think, to act, to protect the things I care about. And 
 
-Currently, I'm building 
+## What Im doing right now
+
+### Learning
+
+#### Tech Skills
+- AI/ML Learning
+- AI Agent/Orchestration
+- 3D Visualization
+- Data Engineer
+- IOT - Realtime Data
+- Cyber Security
+
+#### Math Foundation
+- Linear Algebra
+- Probability & Statistics
+- Optimization
+
+#### Biz
+- Secret 🧑‍🍳
+#### Leadership + Soft Skills
+- Secret 🧑‍🍳
+
+## Crafting 
 - [Investtal](https://investtal.com/)
 - Open Vietnam Corporations
     - Open Health
@@ -16,5 +38,12 @@ Currently, I'm building
     - Open Disaster
     - Open Buddhism
     - Open Security
-- And training like an Athletic Trail Runner!
 
+## Sport Training
+- Struggle-based:
+    - Trail Runner
+    - Gym
+- Skill-based:
+    - Swimming/Ocean Diving
+    - Vovinam - Vietnamese Martial Arts
+    - Golf
