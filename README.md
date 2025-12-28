@@ -8,8 +8,6 @@ I do not like to manage or rule anyone or any organization; I just want to be fr
 
 ## What Im doing right now
 
-## What I'm Doing Right Now
-
 | Category              | Subcategory              | Details                                                                 |
 |-----------------------|--------------------------|-------------------------------------------------------------------------|
 | **Learning**          | Tech Skills              | AI/ML <br> AI Agent/Orchestration <br> 3D Visualization <br> Data Engineering, <br> IoT - Realtime Data <br> Cyber Security |
