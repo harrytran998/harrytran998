@@ -1,9 +1,6 @@
+<h1> Welcome to my Github! <img src="https://github.com/harrytran998/harrytran998/blob/master/assets/hithere.gif" width="30px"></h1>
 
-<h2> 𝐖𝐞𝐥𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐠𝐢𝐭𝐡𝐮𝐛! <img src="https://github.com/harrytran998/harrytran998/blob/master/assets/hithere.gif" width="30px"></h2>
-
-</div>
-
-## What I'm up to 🥳
+## A little about me
 I do not like to manage or rule anyone or any organization; I just want to be free. Free to think, to act, to protect the things I care about. 
 
 ## What Im doing right now
