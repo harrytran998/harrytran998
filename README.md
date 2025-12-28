@@ -4,7 +4,7 @@
 </div>
 
 ## What I'm up to 🥳
-I do not like to manage or rule anyone or any organization; I just want to be free. Free to think, to act, to protect the things I care about. And 
+I do not like to manage or rule anyone or any organization; I just want to be free. Free to think, to act, to protect the things I care about. 
 
 ## What Im doing right now
 
